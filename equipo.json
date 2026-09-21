@@ -1,8 +1,8 @@
 {
-  "equipo": "G00",
+  "equipo": "H1-24",
   "integrantes": [
     { "nombre": "Leyrin Bridneys Aguilar Jorge", "codigo": "202510294" },
-    { "nombre": "Nombre Apellido", "codigo": "202520023" },
-    { "nombre": "Nombre Apellido", "codigo": "202520121" }
+    { "nombre": "Huayta Enriquez, Johan Yadir", "codigo": "202520023" },
+    { "nombre": "Veliz Quispe, Jesús Adrián Ángel", "codigo": "202520121" }
   ]
 }

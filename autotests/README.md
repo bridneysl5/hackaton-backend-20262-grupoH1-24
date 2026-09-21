@@ -81,7 +81,7 @@ Más arriba, en la salida de Maven, está el detalle del fallo:
    *no evaluado*: arregla la ★2 primero.
 3. **Solo se muestra el primer fallo de cada estrella.** El resto de comprobaciones
    de esa estrella se omiten para que no te confundan fallos derivados.
-4. Los autotests **no tocan** tu código ni tu `pom.xml`. Solo hablan HTTP con tu app
+4. Los autotests **no tocan** tu código ni tu `../pom.xml`. Solo hablan HTTP con tu app
    y escuchan el correo que envías.
 
 ## El tablero del auditorio
